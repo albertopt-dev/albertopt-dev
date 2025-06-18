@@ -7,7 +7,7 @@ Actualmente en búsqueda activa de mi **primera oportunidad profesional** en des
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## 👨‍💻 Sobre mí
 
 - Me gusta convertir mis ideas en interfaces, funcionales y accesibles.  
 - No me importa aprender nuevas tecnologías.    
