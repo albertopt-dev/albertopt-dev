@@ -1,22 +1,23 @@
 
 # 👋 ¡Hola! Soy Alberto Pérez Talaván
 
-Un desarrollador frontend junior residente en Alcoy, Alicante. Actualmente he finalizado el ciclo formativo de grado superior en Desarrollo de Aplicaciones Web y Multiplataforma. Me motiva especialmente el diseño y desarrollo de interfaces modernas, accesibles y funcionales, pero no cierro la puerta a las demás ramas.
+Desarrollador junior con formación en Desarrollo de Aplicaciones Web y Multiplataforma.
+Me especializo en la creación de interfaces modernas, accesibles y funcionales, y tengo experiencia tanto en desarrollo web como en aplicaciones móviles.
 
-Actualmente en búsqueda activa de mi **primera oportunidad profesional** en desarrollo web frontend (remoto, híbrido o presencial zona Alicante).
+Actualmente en búsqueda activa de mi **primera oportunidad profesional** en desarrollo(remoto, híbrido o presencial zona Alicante).
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-- Me gusta convertir mis ideas en interfaces, funcionales y accesibles.  
-- No me importa aprender nuevas tecnologías.    
+- Prácticas en **TICH Consulting**, donde desarrollé un sistema WordPress orientado a clientes médicos.
+- Titulado en Desarrollo de Aplicaciones Web y Multiplataforma (2025).
+- Capacidad de adaptación y aprendizaje de nuevas tecnologías.    
 - Formación técnica en desarrollo web y multiplataforma (Java, Kotlin, Node.js, PHP/Laravel, SQL, Firebase…)
 - Proyectos propios a modo autodidacta con **React** y **Vue.js**
 - Experiencia práctica en **HTML, CSS, JavaScript, WordPress, Kotlin, Java**
-- Prácticas en **TICH Consulting**, donde desarrollé un sistema WordPress orientado a clientes médicos.
 - Me destaco por mi proactividad, compromiso y superación de retos.
-- Titulado en Desarrollo de Aplicaciones Web y Multiplataforma (2025).
+
 
 ---
 
