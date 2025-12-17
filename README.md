@@ -24,10 +24,10 @@ Actualmente en búsqueda activa de mi **primera oportunidad profesional** en des
 
 | Proyecto         | Tecnologías                                                                                                                                     | Descripción                                                                                      |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| `app_despedida`  | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)                  | Portafolio personal con React, autenticación básica y despliegue en Vercel.                     |
-| `nutriplan`      | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | App Android para gestión nutricional con base local y sincronización en Firebase. Proyecto final. |
-| `MyAmazingPlaces`    | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | App para localizar y guardar lugares favoritos del usuario.                                     |
-| `control_gastos` | ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | Proyecto experimental para control de gastos. Practicando conexión backend y frontend.          |
+| `app_despedida`  | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)                  | Juego de pruebas para despedidas, autenticación básica y fototeca. Es una app hecha con la ayuda de IA ya que queria hacer algo especial para un amigo y me surgió esa idea                     |
+| `nutriplan`      | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | App Android para gestión nutricional con base local y sincronización en Firebase. Proyecto final de grado. |
+| `MyAmazingPlaces`    | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | App para localizar y guardar lugares favoritos del usuario. Es un proyecto realizado durante el curso de DAM                                    |
+| `control_gastos` | ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | Proyecto experimental para control de gastos. Practicando conexión backend y frontend. Es un proyecto personal que realicé para ayudarme a mi mismo con la gestión de mis gastos tanto diarios como mensuales         |
 
 
 
@@ -41,7 +41,7 @@ Me encantaría formar parte de un equipo donde pueda seguir aprendiendo y crecer
 Estoy **disponible de inmediato** y abierto a propuestas formativas junior.
 
 - 📧 alberto.pt.dev@gmail.com
-- 🌍 [LinkedIn](https://www.linkedin.com/in/alberto-pérez-talaván-7847191b5/)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/alberto-perez-talavan)
 - 📍 Alcoy (Alicante), con disponibilidad para presencial, híbrido o remoto
 
 ---
